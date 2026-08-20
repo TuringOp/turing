@@ -15,6 +15,8 @@ The goal is to keep large-system inference manageable when multiple contributors
 - Preserve model math while changing execution target.
 - Make integration points explicit for downstream applications.
 
+![Turing](turing.png)
+
 ## HKT-inspired type design
 
 Mojo does not currently expose full higher-kinded-type syntax, so `turing` uses an HKT-inspired pattern to preserve the same safety intent.
