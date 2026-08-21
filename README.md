@@ -107,8 +107,3 @@ mojo -I src examples/social_reco_demo.mojo
 mojo -I src tests/test_hkt_demo.mojo
 mojo -I src tests/test_inference_paths.mojo
 ```
-## Bluesky example
-
-Use the companion application demo for end-to-end usage and contributor workflow:
-
-https://github.com/TuringCore/bluesky
