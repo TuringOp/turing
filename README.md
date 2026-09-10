@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-demo-blue)
 ![Language](https://img.shields.io/badge/language-Mojo-orange)
-![License](https://img.shields.io/badge/license-BSD--3--Clause-green)
+![License](https://img.shields.io/badge/license-GNU--GPL-green)
 
 `/turing` is a focused Mojo library for Bayesian probabilistic programming.
 
